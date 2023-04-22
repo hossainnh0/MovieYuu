@@ -6,7 +6,9 @@ const Footer = () =>{
         <div className='footer container'>
             <div className='footer__disb'>
             Copyright HOFLIX © 2022
+            </div>
 
+            </div>
         </div>
     );
 }
